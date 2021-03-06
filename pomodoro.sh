@@ -6,10 +6,6 @@
 #   Simple pomodor countdown timer to assist with productivity.
 # ------------------------------------------------------------------
 
-VERSION=0.1.0
-SUBJECT=some-unique-id
-USAGE="Usage: command -ihv args"
-
 BREAK_MINUTES=5
 LONG_BREAK_MINUTES=20
 SECONDS_PER_MINUTE=60
